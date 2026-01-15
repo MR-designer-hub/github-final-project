@@ -1,0 +1,4 @@
+$ git branch -vv
+* bug-fix-revert 7dc652a Revert "Changed 2022 to 2023"
+  bug-fix-typo   cb19c46 Changed 2022 to 2023
+  main           cb19c46 [origin/main: ahead 1] Changed 2022 to 2023
